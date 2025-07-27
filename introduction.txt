@@ -1,0 +1,23 @@
+1. HTML - Hyper Text Markup Language
+
+2. Responsible for Webpage Structure
+
+3. Types of Elements:
+Opening and Closing Elements: <element>content</element>
+
+Example:
+<h1>Heading</h1> === Heading Element
+<p>Paragraph</p> === Paragraph Element
+
+Self Closing Syntax: <element content />
+
+Example:
+<im src="..." /> Image Element (Media element)
+<br /> === Line Break
+
+Note: HTML5 now are valid with and without a forward slash "/". But For example, React JS, most popular modern frontend framework, 
+require forwanrd slash.
+
+In web development, the two things is the most needed to build and test the websites.
+1. Text Editor - Visual Studio Code 2022 (IDE Software)
+2. Web Browser - Google Chrome (Primary)
