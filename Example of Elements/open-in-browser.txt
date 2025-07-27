@@ -1,0 +1,11 @@
+Open your file in a web browser:
+
+1. Open File Explorer.
+2. Navigate to the folder where your file is located.
+3. Right-click the file and choose "Open with" > your preferred browser.
+   Alternatively, just click "Open in [browser name]" if that option is available.
+
+You can change the text between HTML elements. 
+For example: <h1>Hello HTML</h1>
+
+After saving the file, press CTRL + R in your web browser to refresh the page and see the update.
