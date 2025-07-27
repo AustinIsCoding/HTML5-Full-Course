@@ -1,0 +1,9 @@
+HTML files must be in .html. For example, only the first file (HomePage) must be index.html.
+The "index" meaning first html file that indicate as the home page or initial page.
+
+Example of .html files creation:
+1. about.html
+2. contact.html
+3. login.html
+4. signup.html
+etc
