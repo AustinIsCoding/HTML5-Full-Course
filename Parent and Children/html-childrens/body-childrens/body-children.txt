@@ -69,4 +69,26 @@ Default Style of the <body> element in CSS style:
 body {
   display: block;
   margin: 8px;
+  padding: 0;
+  border: 0;
+  font-family: system-ui; /* varies: Times, Arial, Segoe UI, Roboto, etc. */
+  font-size: medium;
+  font-weight: normal;
+  font-style: normal;
+  line-height: normal;
+  color: initial;          /* usually black */
+  background-color: transparent;  /* or white depending on browser/theme */
+  height: auto;
+  width: auto;
+  text-align: start;
+  direction: ltr;
+  unicode-bidi: isolate;
 }
+
+Note: 
+    These defaults may vary depending on the browser, OS, and version
+    but the above values are commonly applied unless overridden.
+
+Developer's clean reset state/style:
+
+Coming Soon
