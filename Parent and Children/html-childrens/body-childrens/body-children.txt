@@ -1,0 +1,72 @@
+The children of the <body> element are:
+
+    A. Content Sectioning Elements:
+        1. <headers></headers> - Introductory content or navigation
+        2. <nav></nav> - Navigation links
+        3. <main></main> - Main content unique to the page
+        4. <section></section> - Thematic grouping of content
+        5. <article></article> - Self-contained content like blog post
+        6. <aside></aside> - Side content like ads, sidebars
+        7. <footer></footer> - Footer content
+
+    B. Text Content Elements:
+        1. <h1></h1> to <h6></h6> - Headings
+        2. <p></p> - Paragraph
+        3. <hr> - Thematic break (horizontal line)
+        4. <pre></pre> - Preformatted text
+        5. <blockquote></blockquote> - Quoted section
+        6. <ol></ol> - Ordered lists
+        7. <ul></ul> - Unordered lists
+        8. <li></li> - List items
+        9. <dl></dl> - Description lists
+        10. <dt></dt> - Description terms
+        11. <dd></dd> - Description definitions
+
+    C. Inline Text Semantics:
+        1. <a></a> - Hyperlink 
+        2. <strong></strong> - Importance
+        3. <em></em> - Emphasis
+        4. <span></span> - Generic inline container
+        5. <br> - Line break
+        6. <code></code> - Inline code
+        7. <mark></mark> - Highlighted text
+        8. <abbr></abbr> - Abbreviation (with tooltip via title)
+        9. <time></time> - Date or time value
+
+    D. Media Elements:
+        1. <img /> - Image
+        2. <audio></audio> - Audio playback
+        3. <video></video> - Video playback
+        4. <figure></figure> - Self-contained media content
+        5. <figcaption></figcaption> - Caption for figure
+
+    E. Embedded Content:
+        1. <iframe></iframe> - Embed external content/webpage
+        2. <embed></embed> - Embed external resource like PDF, media
+        3. <object></object> - Embed multimedia or plugins
+        4. <canvas></canvas> - Draw graphics via JavaScript
+        5. <svg></svg> - Scalable vector graphics
+        6. <math></math> - MathML content or formulas
+
+    F. Form Elements:
+        1. <form></form> - Form container
+        2. <input /> - User input field
+        3. <textarea></textarea> - Multi-line text input
+        4. <select></select> - Dropdown menu
+        5. <option></option> - Item in select
+        6. <button><button> - Clickable button
+        7. <label /> -Label for form element
+
+    G. Interactive Elements:
+        1. <details></details> - Expandable content
+        2. <summary></summary> - Summary for details
+        3. <dialog></dialog> - Popup dialog box
+        4. <script></script> - Javascript code(can appear in body too)
+        5. <noscript></noscript> - Provides fallback content if Javascript is disabled or not supported.
+
+Default Style of the <body> element in CSS style:
+
+body {
+  display: block;
+  margin: 8px;
+}
