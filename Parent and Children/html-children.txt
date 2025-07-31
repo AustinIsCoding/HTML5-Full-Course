@@ -1,0 +1,33 @@
+The children of the <html> element are:
+1. <head></head> - Holds page info but not visible on the page.
+2. <body></body> - Contains content visible on the page.
+
+Default Style of the <html> element in CSS style:
+
+html {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: auto;
+  width: 100%;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  font-family: system-ui; /* varies by browser/OS */
+  line-height: normal;
+  color: initial;
+  background-color: transparent;
+  overflow-x: visible;
+  overflow-y: visible;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+Note: 
+    These defaults may vary depending on the browser, OS, and version
+    but the above values are commonly applied unless overridden.
+
+Developer's clean reset state/style:
+
+Coming Soon
