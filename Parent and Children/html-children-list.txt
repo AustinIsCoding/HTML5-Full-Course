@@ -1,0 +1,3 @@
+The children of the <html> element are:
+1. <head></head> - Holds page info but not visible on the page.
+2. <body></body> - Contains content visible on the page.
