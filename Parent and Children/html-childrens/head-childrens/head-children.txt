@@ -6,3 +6,13 @@ The children of the <head> element are:
 5. <style></style> - Embeds internal CSS stylesheets.
 6. <script></script> - Embeds or links Javascript (for scripts that loads early).
 7. <noscript></noscript> - Provides fallback content if Javascript is disabled or not supported.
+
+Default Style of the <head> element in CSS style:
+
+head {
+  display: none;
+}
+
+Developer's clean reset state/style:
+
+Coming Soon
