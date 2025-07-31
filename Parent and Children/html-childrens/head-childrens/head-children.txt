@@ -1,0 +1,8 @@
+The children of the <head> element are:
+1. <meta></meta> - Provides metadata about the document.
+2. <title></title> - Defines the title of the web page (shown in browser tab).
+3. <base></base> - Sets a base URL for relative links (only once, and before any relative links)
+4. <link></link> - Links external resources like stylesheets, icons, font-family.
+5. <style></style> - Embeds internal CSS stylesheets.
+6. <script></script> - Embeds or links Javascript (for scripts that loads early).
+7. <noscript></noscript> - Provides fallback content if Javascript is disabled or not supported.
